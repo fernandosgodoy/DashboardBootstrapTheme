@@ -1,0 +1,91 @@
+/*
+Dashboard Theme - Bootstrap
+*/
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+a, a:link a:visited {
+	color: #000;
+}
+
+#head {
+	height: 40px;
+	padding: 2px 50px;
+}
+
+#head .logo-area {
+	float: left;
+}
+
+#head .account-info {
+	float: right;
+}
+
+#head .logo-area {
+	
+}
+
+#head .logo-area img {
+	height: 24px;
+	width: 70px;
+}
+
+/*Lateral Menu*/
+.menu-lateral {
+	float: left;
+}
+
+.menu-link {
+	color: #000;
+}
+
+.menu-sandwish {
+	width: 42px;
+}
+
+.painel-menu-lateral {
+    opacity: 0.8;
+    color: #fff;
+    background-color: #000;
+}
+
+.painel-menu-lateral a, 
+.painel-menu-lateral a:link,
+.painel-menu-lateral a:visited {
+	color: #fff;
+}
+
+/*Content Page*/
+.content-page {
+    background-color: #fdfdfd;
+    min-height: 530px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+/*Footer*/
+#footer {
+	background-color: #333;
+	/*position: absolute;
+	bottom: 0;*/
+	color: #fff;
+	width: 100%;
+}
+
+#footer a,
+#footer a:link,
+#footer a:visited {
+	color: #fab960;
+	font-weight: bold;
+	
+}
+
+.copyright-info {
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+	width: 800px;
+}
